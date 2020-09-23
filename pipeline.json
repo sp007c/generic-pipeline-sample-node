@@ -1,0 +1,21 @@
+{
+  "application": {
+    "name": "Sample Node App",
+    "type": "node"
+  },
+  "build": {
+    "path": null,
+    "outputPath": "dist/"
+  },
+  "test": {
+    "enabled": true,
+    "path": null
+  },
+  "archive": {
+    "registry": "localhost:8082",
+    "repository": "edwardsdl/sample-node"
+  },
+  "deploy": {
+    "containerPort": 5000
+  }
+}
