@@ -12,7 +12,7 @@
     "path": null
   },
   "archive": {
-    "registry": "localhost:8082",
+    "registry": "172.17.0.2:8082",
     "repository": "edwardsdl/sample-node"
   },
   "deploy": {
