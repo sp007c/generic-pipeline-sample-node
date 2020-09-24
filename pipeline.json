@@ -16,6 +16,6 @@
     "repository": "docker-local/sample-node"
   },
   "deploy": {
-    "containerPort": 5000
+    "containerPort": 4200
   }
 }
