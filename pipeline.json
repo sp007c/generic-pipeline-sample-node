@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "172.17.0.2:8082",
-    "repository": "edwardsdl/sample-node"
+    "repository": "docker-local/sample-node"
   },
   "deploy": {
     "containerPort": 5000
